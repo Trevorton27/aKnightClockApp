@@ -2,32 +2,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
 
 body {
-    background-color: #00008b;
+  background-color: #00008b;
 }
 
-span {
-    color: red;
+.colon {
+  color: red;
 }
 
 .clock-app {
-    margin: 0 auto;
-    color: #b0a800;
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 2.875rem;
+  margin: 0 auto;
+  color: #b0a800;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 2.875rem;
 }
 
 .heading {
-    padding-top: 100px;
-    padding-bottom: 50px;
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
 
 .actualTime {
-    font-weight: 900;
-    font-size: 6rem;
+  font-weight: 900;
+  font-size: 6rem;
 }
 
 .actualDate {
-    padding-top: 50px;
+  padding-top: 50px;
 }
